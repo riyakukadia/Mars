@@ -27,8 +27,8 @@ Using NASA Insight API to get real-time weather of Mars
 
 **Required Must-have Stories**
 
-* View Controller for wheather logistic 
-* View Controller for planet Mars 
+* View controller for wheather logistic 
+* View controller for planet Mars 
 * Two tabs between wheather and Mars
 * Labels indicating real time temperature 
 
@@ -50,8 +50,8 @@ Using NASA Insight API to get real-time weather of Mars
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
+* IPhone phone screen with Mars app logo 
+* First view controller will have the 
 * [fill out your third tab]
 
 **Flow Navigation** (Screen to Screen)
