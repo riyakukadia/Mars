@@ -10,7 +10,7 @@ Mars Weather App
 
 ## Overview
 ### Description
-Using NASA API to get real-time weather of Mars using Insight API.
+Using NASA Insight API to get real-time weather of Mars
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
