@@ -1,5 +1,5 @@
-# Mars
-Mars weather app
+# Group 43
+Mars Weather App
 ===
 
 ## Table of Contents
