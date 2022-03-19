@@ -50,7 +50,7 @@ Using NASA Insight API to get real-time weather of Mars
 
 **Tab Navigation** (Tab to Screen)
 
-* IPhone phone screen with Mars app logo 
+* IPhone screen with Mars app logo 
 * First view controller will have the 
 * [fill out your third tab]
 
