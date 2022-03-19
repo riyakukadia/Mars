@@ -2,8 +2,6 @@
 Mars weather app
 ===
 
-# Mars weather app
-
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
