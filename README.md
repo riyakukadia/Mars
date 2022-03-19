@@ -10,7 +10,7 @@ Mars Weather App
 
 ## Overview
 ### Description
-[Description of your app]
+Using NASA API to get real-time weather of Mars.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
